@@ -1,0 +1,10 @@
+
+
+
+orders: 
+, Unit price: $ , Amount ordered: , total: $0;
+, Unit price: $ , Amount ordered: , total: $0;
+, Unit price: $ , Amount ordered: , total: $0;
+, Unit price: $ , Amount ordered: , total: $0;
+, Unit price: $ , Amount ordered: , total: $0;
+customer sub total order is: $0;

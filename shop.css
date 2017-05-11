@@ -1,0 +1,49 @@
+table{
+
+	margin:auto;
+	width: 95%;
+	padding: 10px;
+
+}
+tr#tr0 td{
+		margin:auto;
+		padding:4px;
+
+
+}
+img{
+	width: 233px;
+	height: 333px;
+
+}
+
+tr#tr1 {
+	border: 1px solid pink;
+	width: 233px;
+	height: 100px;
+}
+tr#tr1 td{
+userDiv
+
+}
+
+div.price{
+	float: left;
+	margin-left: 10px;
+}
+
+div.info{
+	float: right;
+	margin-right: 10px;
+}
+
+#userDiv{
+	width: 500px;
+	border: 1px solid pink;
+	margin: auto;
+	text-align: center;
+	padding: 10px;
+}
+
+
+

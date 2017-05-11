@@ -1,0 +1,87 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+}
+.color{
+	background-color: #fc9e95;
+}
+#topInfoBar{
+	height: 35px;
+	color: white;
+	text-align: center;
+	margin: auto;
+
+}
+.wrapcenter{
+	width:90%;
+	height: inherit;
+	margin: auto;
+}
+
+#shippingTopInfo{
+	float: left;
+	position: relative;
+	top: 15px;
+}
+
+#phoneNumberTop{
+	float: right;
+	position: relative;
+	top: 15px;
+}
+#logoWrap{
+	text-align: center;
+	color:#d6d0cf;
+	height: 120px;
+
+}
+#logo{
+	font-family:'PilGi',sans-serif;
+	font-size: 60px;
+	position: relative;
+	top:30px;
+
+}
+
+#byName{
+	font-family: 'PilGi',sans-serif;
+
+}
+#menu{
+	list-style-type: none;
+	overflow:hidden;
+	width: 500px;
+	margin: auto;
+	/*border:1px solid pink;*/
+
+}
+ul#menu li{
+	width: 120px;
+	text-align: center;
+	line-height: 30px;
+	letter-spacing: 2px;
+	display: inline-block;
+
+}
+
+
+ul#menu li a{
+	text-decoration: none;
+	color:#d6d0cf;
+	font-size: 14px;
+}
+
+footer{
+	width: 100%;
+	height: 70px;
+	background-color: #fc9e95;
+}
+footer p{
+	color: white;
+	width: 200px;
+	margin: auto;
+	padding: 10px;
+}
+

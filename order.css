@@ -1,0 +1,25 @@
+table{
+	border: 1px solid pink;
+	margin: 60px auto;
+	padding: 20px;
+
+}
+h3{
+	text-align: center;
+	margin-top: 30px;
+
+}
+td{
+	width: 100px;
+	height: 30px;
+	text-align: center;
+}
+input{
+	display: block;
+}
+
+table#customerInfo td{
+	width: 200px;
+
+
+}
